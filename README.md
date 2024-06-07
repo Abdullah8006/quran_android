@@ -45,7 +45,7 @@ You can build Quran from the command line by running `./gradlew assembleMadaniDe
 
 ### Android Studio / IntelliJ
 
-Choose "Import Project," and choose the `build.gradle` file from the top level directory. Under "Build Variants" (a tab on the left side), choose "madaniDebug."
+Choose "Import Project," and choose the `build.gradle.kts` file from the top level directory. Under "Build Variants" (a tab on the left side), choose "madaniDebug."
 
 ## Using Quran for Android code in other projects
 
